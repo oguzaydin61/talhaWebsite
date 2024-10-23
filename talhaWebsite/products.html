@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="en" dir="">
+
+<!-- Mirrored from htmlstream.com/preview/front-v4.3.1/landing-app-ui-kit.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 13 Oct 2024 09:47:39 GMT -->
+
+<head>
+    <!-- Required Meta Tags Always Come First -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Title -->
+    <title>App UI Kit | Front - Multipurpose Responsive Template</title>
+    <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <!-- Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&amp;display=swap" rel="stylesheet">
+
+    <!-- CSS Implementing Plugins -->
+    <link rel="stylesheet" href="assets/css/vendor.min.css">
+    <link rel="stylesheet" href="assets/vendor/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="assets/vendor/aos/dist/aos.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <script src="//www.youtube.com/player_api"></script>
+    <!-- CSS Front Template -->
+    <link rel="stylesheet" href="assets/css/theme.minc619.css?v=1.0">
+
+    <style>
+        /* Arka Plan Div'i */
+        .background-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background-image: url('assets/img/talha/bg.jpg');
+            background-size: cover;
+
+            background-repeat: no-repeat;
+            opacity: 0.5;
+            /* Opaklık değeri */
+            z-index: -1;
+            /* İçeriğin arkasında kalmasını sağlar */
+        }
+
+        /* Mobil Cihazlar İçin Ayarlamalar */
+        @media (max-width: 768px) {
+            .background-overlay {
+                background-position: top;
+                background-size: contain;
+                /* İsteğe bağlı olarak contain yapabilirsiniz */
+                opacity: 0.7;
+                /* Mobilde opaklığı artırabilirsiniz */
+            }
+        }
+    </style>
+    <style>
+        .card {
+            background-color: rgba(255, 255, 255, 1);
+            padding: 1rem;
+            height: 100%;
+            /* Make the card take full height */
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card-img-top {
+            height: 200px;
+            /* Set a fixed height for the image */
+            object-fit: cover;
+            /* Ensures the image is cropped and covers the area */
+            width: 100%;
+            /* Ensure the image takes up full width */
+        }
+
+        .card-body {
+            flex-grow: 1;
+            /* Allows the card body to take up remaining space */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            /* Centers the content inside the card body */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="background-overlay"></div>
+    <!-- ========== HEADER ========== -->
+    <header id="header" class="navbar navbar-expand-lg navbar-floating navbar-end navbar-light">
+        <div class="container">
+            <nav class="js-mega-menu navbar-nav-wrap navbar-floating-nav bg-white">
+                <!-- Default Logo -->
+                <a class="navbar-brand" href="index.html" aria-label="Front">
+                    <img class="navbar-brand-logo" src="assets/img/talha/talhalogo.png" alt="Logo">
+                </a>
+                <!-- End Default Logo -->
+
+                <!-- Toggler -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-default">
+                        <i class="bi-list"></i>
+                    </span>
+                    <span class="navbar-toggler-toggled">
+                        <i class="bi-x"></i>
+                    </span>
+                </button>
+                <!-- End Toggler -->
+
+                <!-- Collapse -->
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav">
+                        <!-- Landings -->
+
+                        <!-- End Landings -->
+
+                        <!-- Company -->
+                        <li class=" nav-item">
+                            <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="#" role="button"
+                                aria-expanded="false">Anasayfa</a>
+
+                            <!-- Mega Menu -->
+
+                            <!-- End Mega Menu -->
+                        </li>
+                        <li class=" nav-item">
+                            <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="#" role="button"
+                                aria-expanded="false">Ürünlerimiz</a>
+
+                            <!-- Mega Menu -->
+
+                            <!-- End Mega Menu -->
+                        </li>
+                        <li class=" nav-item">
+                            <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="about.html"
+                                role="button" aria-expanded="false">Hakkımızda</a>
+
+                            <!-- Mega Menu -->
+
+                            <!-- End Mega Menu -->
+                        </li>
+                        <li class=" nav-item">
+                            <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="#" role="button"
+                                aria-expanded="false">Sertifikalarımız</a>
+
+                            <!-- Mega Menu -->
+
+                            <!-- End Mega Menu -->
+                        </li>
+                        <li class=" nav-item">
+                            <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="gallery.html"
+                                role="button" aria-expanded="false">Foto Galeri</a>
+
+                            <!-- Mega Menu -->
+
+                            <!-- End Mega Menu -->
+                        </li>
+                        <li class=" nav-item">
+                            <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="#" role="button"
+                                aria-expanded="false">İletişim</a>
+
+                            <!-- Mega Menu -->
+
+                            <!-- End Mega Menu -->
+                        </li>
+
+
+
+
+
+                        <!-- Portfolio -->
+                        <li class="hs-has-sub-menu nav-item">
+                            <a id="portfolioMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#"
+                                role="button" aria-expanded="false"><i class="bi bi-globe-americas"></i>
+                                &nbsp;Türkçe</a>
+
+                            <!-- Mega Menu -->
+                            <div class="hs-sub-menu dropdown-menu" aria-labelledby="portfolioMegaMenu"
+                                style="min-width: 14rem;">
+                                <a class="dropdown-item " href="portfolio-grid.html">English</a>
+                                <a class="dropdown-item " href="portfolio-product-article.html">Русский</a>
+                                <a class="dropdown-item " href="portfolio-case-studies-branding.html">العربية</a>
+
+                            </div>
+                            <!-- End Mega Menu -->
+                        </li>
+                        <!-- End Portfolio -->
+
+                        <!-- Button -->
+
+                        <!-- End Button -->
+                    </ul>
+                </div>
+                <!-- End Collapse -->
+            </nav>
+        </div>
+    </header>
+
+    <!-- ========== END HEADER ========== -->
+
+    <!-- ========== MAIN CONTENT ========== -->
+    <main id="content" role="main">
+        <div class="container content-space-t-3 content-space-t-lg-5 content-space-b-2 content-space-b-lg-3">
+            <!-- Hero -->
+            <div class="text-center">
+                <p class="lead">Talha Kumaş Boya ve Apre Dış Tic. Ltd. Şti.</p>
+                <h1 class="display-4 mb-0">
+                    <span class="text-highlight-warning">
+                        <span class="js-typedjs" data-hs-typed-options="{
+                    &quot;strings&quot;: [&quot;İstanbul Hayal Tül&quot;, &quot;Buse Hayal Tül&quot;, &quot;Nilüfer Hayal Tül&quot;, &quot;Beyza Hayal Tül&quot;, &quot;Yasemin Lüks Yırtılmaz Hayal Tül&quot;, &quot;Zeynep Lüks Angel Hayal Tül&quot;, &quot;Nisa Kristal Tül&quot;],
+                    &quot;typeSpeed&quot;: 100,
+                    &quot;loop&quot;: true,
+                    &quot;backSpeed&quot;: 50,
+                    &quot;backDelay&quot;: 1500
+                  }"></span><span class="typed-cursor" aria-hidden="true"></span>
+                    </span>
+                </h1>
+            </div>
+        </div>
+        <!-- End Hero -->
+
+        <!-- Card Grid -->
+        <div class="container content-space-b-2 content-space-b-lg-3">
+            <!-- Nav Scroller -->
+            <div class="js-nav-scroller hs-nav-scroller-horizontal mb-7">
+                <span class="hs-nav-scroller-arrow-prev" style="display: none;">
+                    <a class="hs-nav-scroller-arrow-link" href="javascript:;">
+                        <i class="bi-chevron-left"></i>
+                    </a>
+                </span>
+
+                <span class="hs-nav-scroller-arrow-next" style="display: none;">
+                    <a class="hs-nav-scroller-arrow-link" href="javascript:;">
+                        <i class="bi-chevron-right"></i>
+                    </a>
+                </span>
+
+                <!-- Nav -->
+                <ul class="js-filter-options nav nav-segment nav-pills d-flex mx-auto" style="max-width: 35rem; justify-content: center;">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="javascript:;" data-group="all">All</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="javascript:;" data-group="branding">Apreli Ürünler</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="javascript:;" data-group="product">Apresiz Ürünler</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="javascript:;" data-group="design">Kartela</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="javascript:;" data-group="illustration">Sineklik</a>
+                    </li>
+                </ul>
+                <!-- End Nav -->
+            </div>
+            <!-- End Nav Scroller -->
+
+            <div class="js-shuffle row row-cols-1 row-cols-sm-2 row-cols-md-3 shuffle"
+                style="position: relative; overflow: hidden; height: 1763.06px; transition: height 500ms cubic-bezier(0.4, 0, 0.2, 1);">
+                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
+                    data-groups="[&quot;product&quot;]"
+                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity; transform: translate(0px, 0px) scale(1);">
+                    <!-- Card -->
+                    <a class="card card-flush card-transition" href="productTest.html">
+
+                        <img class="card-img-top nisaKart contain" src="./assets/img/talha/nisa/nisa2.png"
+                            alt="Image Description">
+                        <div class="card-body">
+                            <span class="card-subtitle text-body">Apreli Ürünler</span>
+                            <h3 class="card-title">Nisa Kristal Tül</h3>
+                        </div>
+                    </a>
+                    <!-- End Card -->
+                </div>
+                <!-- End Col -->
+
+                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
+                    data-groups="[&quot;Apresiz Ürünler&quot;]"
+                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(380px, 0px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
+                    <!-- Card -->
+                    <a class="card card-flush card-transition" href="#">
+                        <img class="card-img-top" src="./assets/img/talha/1busetul.png" alt="Image Description">
+                        <div class="card-body">
+                            <span class="card-subtitle text-body">Apresiz Ürünler</span>
+                            <h3 class="card-title">Buse Hayal Tül</h3>
+                        </div>
+                    </a>
+                    <!-- End Card -->
+                </div>
+                <!-- End Col -->
+
+                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
+                    data-groups="[&quot;branding&quot;]"
+                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(760px, 0px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
+                    <!-- Card -->
+                    <a class="card card-flush card-transition" href="#">
+                        <img class="card-img-top" src="./assets/img/400x500/img21.jpg" alt="Image Description">
+                        <div class="card-body">
+                            <span class="card-subtitle text-body">Branding</span>
+                            <h3 class="card-title">Larq</h3>
+                        </div>
+                    </a>
+                    <!-- End Card -->
+                </div>
+                <!-- End Col -->
+
+                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
+                    data-groups="[&quot;product&quot;]"
+                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(0px, 588px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
+                    <!-- Card -->
+                    <a class="card card-flush card-transition" href="#">
+                        <img class="card-img-top" src="./assets/img/400x500/img24.jpg" alt="Image Description">
+                        <div class="card-body">
+                            <span class="card-subtitle text-body">Product</span>
+                            <h3 class="card-title">Zibbet</h3>
+                        </div>
+                    </a>
+                    <!-- End Card -->
+                </div>
+                <!-- End Col -->
+
+                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
+                    data-groups="[&quot;illustration&quot;]"
+                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(380px, 588px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
+                    <!-- Card -->
+                    <a class="card card-flush card-transition" href="#">
+                        <img class="card-img-top" src="./assets/img/400x500/img19.jpg" alt="Image Description">
+                        <div class="card-body">
+                            <span class="card-subtitle text-body">Illustration</span>
+                            <h3 class="card-title">Adobe Ai</h3>
+                        </div>
+                    </a>
+                    <!-- End Card -->
+                </div>
+                <!-- End Col -->
+
+                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
+                    data-groups="[&quot;branding&quot;]"
+                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(760px, 588px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
+                    <!-- Card -->
+                    <a class="card card-flush card-transition" href="#">
+                        <img class="card-img-top" src="./assets/img/400x500/img20.jpg" alt="Image Description">
+                        <div class="card-body">
+                            <span class="card-subtitle text-body">Branding</span>
+                            <h3 class="card-title">Goby</h3>
+                        </div>
+                    </a>
+                    <!-- End Card -->
+                </div>
+                <!-- End Col -->
+
+                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
+                    data-groups="[&quot;branding&quot;]"
+                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(0px, 1175px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
+                    <!-- Card -->
+                    <a class="card card-flush card-transition" href="#">
+                        <img class="card-img-top" src="./assets/img/400x500/img22.jpg" alt="Image Description">
+                        <div class="card-body">
+                            <span class="card-subtitle text-body">Branding</span>
+                            <h3 class="card-title">OK</h3>
+                        </div>
+                    </a>
+                    <!-- End Card -->
+                </div>
+                <!-- End Col -->
+
+                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
+                    data-groups="[&quot;design&quot;]"
+                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(380px, 1175px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
+                    <!-- Card -->
+                    <a class="card card-flush card-transition" href="#">
+                        <img class="card-img-top" src="./assets/img/400x500/img23.jpg" alt="Image Description">
+                        <div class="card-body">
+                            <span class="card-subtitle text-body">Design</span>
+                            <h3 class="card-title">Flaunter</h3>
+                        </div>
+                    </a>
+                    <!-- End Card -->
+                </div>
+                <!-- End Col -->
+
+                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
+                    data-groups="[&quot;design&quot;]"
+                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(760px, 1175px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
+                    <!-- Card -->
+                    <a class="card card-flush card-transition" href="#">
+                        <img class="card-img-top" src="./assets/img/400x500/img10.jpg" alt="Image Description">
+                        <div class="card-body">
+                            <span class="card-subtitle text-body">Design</span>
+                            <h3 class="card-title">Inside weather</h3>
+                        </div>
+                    </a>
+                    <!-- End Card -->
+                </div>
+                <!-- End Col -->
+            </div>
+            <!-- End Row -->
+        </div>
+        <!-- End Card Grid -->
+    </main>
+
+
+    <!-- Go To -->
+    <a class="js-go-to go-to position-fixed" href="javascript:;" style="visibility: hidden;" data-hs-go-to-options='{
+       "offsetTop": 700,
+       "position": {
+         "init": {
+           "right": "2rem"
+         },
+         "show": {
+           "bottom": "2rem"
+         },
+         "hide": {
+           "bottom": "-2rem"
+         }
+       }
+     }'>
+        <i class="bi-chevron-up"></i>
+    </a>
+    <!-- ========== END SECONDARY CONTENTS ========== -->
+
+    <!-- JS Implementing Plugins -->
+    <script src="assets/js/vendor.min.js"></script>
+    <script src="assets/vendor/aos/dist/aos.js"></script>
+
+    <!-- JS Front -->
+    <script src="assets/js/theme.min.js"></script>
+    <script>
+        (function () {
+            // INITIALIZATION OF HEADER
+            // =======================================================
+            new HSHeader('#header').init()
+
+
+            // INITIALIZATION OF MEGA MENU
+            // =======================================================
+            new HSMegaMenu('.js-mega-menu', {
+                desktop: {
+                    position: 'left'
+                }
+            })
+
+
+            // INITIALIZATION OF SHOW ANIMATIONS
+            // =======================================================
+            new HSShowAnimation('.js-animation-link')
+
+
+            // INITIALIZATION OF BOOTSTRAP VALIDATION
+            // =======================================================
+            HSBsValidation.init('.js-validate', {
+                onSubmit: data => {
+                    data.event.preventDefault()
+                    alert('Submited')
+                }
+            })
+
+
+            // INITIALIZATION OF BOOTSTRAP DROPDOWN
+            // =======================================================
+            HSBsDropdown.init()
+
+
+            // INITIALIZATION OF GO TO
+            // =======================================================
+            new HSGoTo('.js-go-to')
+
+
+            // INITIALIZATION OF TEXT ANIMATION (TYPING)
+            // =======================================================
+            HSCore.components.HSTyped.init('.js-typedjs')
+
+
+            // INITIALIZATION OF NAV SCROLLER
+            // =======================================================
+            new HsNavScroller('.js-nav-scroller')
+
+
+            // INITIALIZATION OF SHUFFLE
+            // =======================================================
+            class ShufflePorfolio {
+                constructor(element) {
+                    this.element = element;
+                    this.shuffle = new Shuffle(element, {
+                        itemSelector: '.js-shuffle-item',
+                        speed: 500
+                    })
+
+                    this.addFilterButtons()
+                }
+
+                addFilterButtons() {
+                    const options = document.querySelector('.js-filter-options')
+                    if (!options) {
+                        return
+                    }
+
+                    const filterButtons = Array.from(options.children)
+                    const onClick = this._handleFilterClick.bind(this)
+                    filterButtons.forEach((button) => {
+                        button.addEventListener('click', onClick, false)
+                    });
+                }
+
+                _handleFilterClick(evt) {
+                    const btn = evt.currentTarget.firstElementChild
+                    const isActive = btn.classList.contains('active')
+                    const btnGroup = btn.getAttribute('data-group')
+
+                    this._removeActiveClassFromChildren(btn.parentNode.parentNode)
+
+                    let filterGroup
+                    if (isActive) {
+                        btn.classList.remove('active')
+                        filterGroup = Shuffle.ALL_ITEMS
+                    } else {
+                        btn.classList.add('active')
+                        filterGroup = btnGroup
+                    }
+
+                    this.shuffle.filter(filterGroup)
+                }
+
+                _removeActiveClassFromChildren(parent) {
+                    const { children } = parent
+                    for (let i = children.length - 1; i >= 0; i--) {
+                        children[i].firstElementChild.classList.remove('active')
+                    }
+                }
+            }
+
+            new ShufflePorfolio(document.querySelector('.js-shuffle'))
+        })()
+    </script>
+    <!-- JS Plugins Init. -->
+    <script>
+            (function () {
+                // INITIALIZATION OF HEADER
+                // =======================================================
+                new HSHeader('#header').init()
+
+
+                // INITIALIZATION OF MEGA MENU
+                // =======================================================
+                new HSMegaMenu('.js-mega-menu', {
+                    desktop: {
+                        position: 'left'
+                    }
+                })
+
+
+                // INITIALIZATION OF GO TO
+                // =======================================================
+                new HSGoTo('.js-go-to')
+
+
+                // INITIALIZATION OF AOS
+                // =======================================================
+                AOS.init({
+                    duration: 650,
+                    once: true
+                });
+            })()
+    </script>
+</body>
+
+<!-- Mirrored from htmlstream.com/preview/front-v4.3.1/landing-app-ui-kit.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 13 Oct 2024 09:47:41 GMT -->
+
+</html>

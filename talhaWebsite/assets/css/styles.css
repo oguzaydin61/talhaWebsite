@@ -1,0 +1,99 @@
+@media only screen and (max-width: 600px) {
+    .gallery-home {
+      display: none;
+    }
+
+  }
+
+  .ürün-btn{
+    flex: content;
+
+    width: 100%;
+    color: white !important;
+    font-size: 1.5rem !important;
+    
+    z-index: 10;
+    background: rgb(213,214,61);
+background: linear-gradient(90deg, rgba(213,214,61,1) 0%, rgba(0,163,210,1) 45%, rgba(151,190,103,1) 100%);
+  }
+
+  .talha-container{
+    padding-top: 4rem !important;
+  }
+  @media only screen and (min-width: 600px) {
+    
+    .talha-container{
+        padding-top: 10rem !important;
+
+    }
+  }
+
+  .aboutText{
+    font-size: 1.25rem;
+  }
+  .aboutHeader{
+    font-weight: 700;
+    font-size: 1.5rem;
+  }
+
+  .aboutLogo{
+    width: 20%;
+  }
+
+  .aboutSmallText{
+    font-size: 1rem !important;
+  }
+
+  
+  .gallery img:hover{
+    
+    transform: scale(1.2);
+
+  }
+  .gallery img{
+    transition: transform .2s;
+
+  }
+
+  .portfolio-menu{
+    text-align:center;
+  }
+  .portfolio-menu ul li{
+    display:inline-block;
+    margin:0;
+    list-style:none;
+    padding:10px 15px;
+    cursor:pointer;
+    -webkit-transition:all 05s ease;
+    -moz-transition:all 05s ease;
+    -ms-transition:all 05s ease;
+    -o-transition:all 05s ease;
+    transition:all .5s ease;
+  }
+  
+
+  .portfolio-item .item{
+    /*width:303px;*/
+    float:left;
+    margin-bottom:10px;
+  }
+  
+  .nisaKart{
+    width: 400px;
+    height: auto;
+  }
+
+  .js-shuffle {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.js-shuffle-item {
+    display: flex; /* Ensure each item is a flex container */
+    flex-direction: column; /* Align children vertically */
+}
+
+.card {
+    flex-grow: 1; /* Allow cards to grow equally */
+    min-height: 300px; /* Set a minimum height */
+}
