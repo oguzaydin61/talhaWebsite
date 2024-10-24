@@ -17,6 +17,18 @@
 background: linear-gradient(90deg, rgba(213,214,61,1) 0%, rgba(0,163,210,1) 45%, rgba(151,190,103,1) 100%);
   }
 
+  .ürün-btn-home{
+    flex: content;
+
+    width: 35%;
+    
+    font-size: 1.5rem !important;
+    
+    z-index: 10;
+    
+
+  }
+
   .talha-container{
     padding-top: 4rem !important;
   }
@@ -96,4 +108,8 @@ background: linear-gradient(90deg, rgba(213,214,61,1) 0%, rgba(0,163,210,1) 45%,
 .card {
     flex-grow: 1; /* Allow cards to grow equally */
     min-height: 300px; /* Set a minimum height */
+}
+
+.gradient-x-overlay-lg-dark::before {
+  background-image: linear-gradient(to right, rgba(33, 50, 91, .9) 0, rgba(33, 50, 91, .9) 100%)
 }
