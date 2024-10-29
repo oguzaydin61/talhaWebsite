@@ -2,9 +2,32 @@
     .gallery-home {
       display: none;
     }
+    .marka{
+      font-size: .5rem;
+    }
 
   }
+/* Set table layout to fixed and adjust column widths */
 
+
+
+  @media only screen and (max-width: 900px) {
+    .gallery-home {
+      display: none;
+    }
+    .marka{
+      font-size: 2rem !important;
+    }
+    .productTable h4{
+      font-size: 10px !important;
+    }
+    
+  }
+
+  .productTable{
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+  }
   .ürün-btn{
     flex: content;
 
@@ -112,4 +135,26 @@ background: linear-gradient(90deg, rgba(213,214,61,1) 0%, rgba(0,163,210,1) 45%,
 
 .gradient-x-overlay-lg-dark::before {
   background-image: linear-gradient(to right, rgba(33, 50, 91, .9) 0, rgba(33, 50, 91, .9) 100%)
+}
+
+.marka{
+  font-size: 3.125rem;
+  color: #333333;
+}
+.markaText{
+  font-size: 2.5rem;
+
+}
+.homeCard{
+  font-size: 2rem;
+  text-align: center;
+  color: #333333;
+}
+
+.homeVideo{
+  min-height: 560px;
+}
+
+.adress{
+  font-size: 10px;
 }
