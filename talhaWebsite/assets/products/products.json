@@ -1,0 +1,934 @@
+{
+    "products": [
+      {
+        "id": 2,
+        "productName": "BUSE HAYAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "136 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT - SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "productName": "İSTANBUL HAYAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 13/14 gr/m2",
+        "colors": "136 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT - SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2000-2200 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id" : 1,
+        "productName": "BUSE HAYAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id": 4,
+        "productName": "NİLÜFER HAYAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 13 gr/m2",
+        "colors": "50 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU- ESNEK",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2800-3200 GR",
+        "applicationAreas": "GELİN BAŞI- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 5,
+        "productName": "ZEYNEP LÜKS HAYAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 20 gr/m2",
+        "colors": "3 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT - SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2800-3000 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      {
+        "id": 6,
+        "productName": "YASEMİN LÜKS HAYAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 21 gr/m2",
+        "colors": "3 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT - SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 3000-3200 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      {
+        "id": 7,
+        "productName": "BEYZA MELEZ HAYAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 22 gr/m2",
+        "colors": "3 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT - ESNEMEZ",
+        "packaging": "4 KAT TAMBUR – 50 MT – 3200-3400 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 8,
+        "productName": "KARİNA PARLAK HAYAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 19 gr/m2",
+        "colors": "83 ADET",
+        "fabricFeatures": "YUMUŞAK- PARLAK - SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2800-2900 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM-SÜSLEME",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 9,
+        "productName": "KONFEKSİYONLUK STREÇ TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "150-200 cm – 40 gr/m2",
+        "colors": "80 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT - ESNEK",
+        "packaging": "2 KAT ROLİK – 100 MT – 5800-6800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM- DEKORASYON- SÜSLEME- ORGANİZASYON",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 10,
+        "productName": "ANGEL DÜZ SİMLİ TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm",
+        "colors": "26 ADET",
+        "fabricFeatures": "YUMUŞAK – PARLAK SİMLİ- SİLİKONLU",
+        "packaging": "2 KAT ROLİK – 50 MT – 6000-6500 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK KIYAFETİ",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 11,
+        "productName": "ANGEL DESENLİ SİMLİ TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm",
+        "colors": "KIRIK BEYAZ RENK- 6 DESEN",
+        "fabricFeatures": "YUMUŞAK – PARLAK SİMLİ- DESENLİ",
+        "packaging": "2 KAT ROLİK – 50 MT – 10500-11000 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 12,
+        "productName": "ŞEFFAF BEDEN TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 45-50 gr/m2",
+        "colors": "6 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT- ESNEMEZ",
+        "packaging": "4 KAT TAMBUR – 50 MT – 6500-8000 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 13,
+        "productName": "NAYLON TÜL",
+        "content": "%100 NAYLON",
+        "dimensions": "300 cm – 22-24 gr/m2",
+        "colors": "5 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT- SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 3000-3200 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      {
+        "id": 14,
+        "productName": "MAT SATEN",
+        "content": "%100 POLYESTER",
+        "dimensions": "150 cm – 280 gr/m2",
+        "colors": "60 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT- DOKUMA",
+        "packaging": "2 KAT ROLİK – 50 MT – 15000-16000 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "tags": "Mat saten, %100 Polyester, gelinlik, abiyelik, bebe ve çocuk kıyafetinde kullanılır, yumuşak, mat, esnemez olarak üretilmektedir.",
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 15,
+        "productName": "NISA KRİSTAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 12 gr/m2",
+        "colors": "136 ADET",
+        "fabricFeatures": "SERT- PARLAK- APRELİ- AZ ESNEK",
+        "packaging": "4 KAT TAMBUR – 50 MT – 1700-1800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM- DEKORASYON – ORGANİZASYON - SÜSLEME",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "tags": "%100 Polyester, Nisa Kristal Tül, gelinlik, abiyelik, bebe ve çocuk kıyafeti, sert, parlak, az esnek, apreli, Oeko Tex class1 uyumlu",
+        "images": [
+          "/assets/img/talha/nisa/nisa2.png",
+          "/assets/img/talha/nisa/nisa1.jpg",
+          "/assets/img/talha/nisa/nisa6.png",
+          "/assets/img/talha/nisa/nisa4.png"
+          
+
+        ]
+      },
+      
+      {
+        "id": 16,
+        "productName": "NISA LÜKS KRİSTAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 13/14 gr/m2",
+        "colors": "2 ADET",
+        "fabricFeatures": "SERT- PARLAK- APRELİ- AZ ESNEK",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2000-2200 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "tags": "%100 Polyester, Nisa lüks Kristal Tül, gelinlik, abiyelik, bebe ve çocuk kıyafeti, sert, parlak, az esnek, apreli, Oeko Tex class1 uyumlu",
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 17,
+        "productName": "SİMENLİ MAT KRİSTAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 13 gr/m2",
+        "colors": "3 ADET",
+        "fabricFeatures": "SERT- MAT- APRELİ- AZ ESNEK",
+        "packaging": "4 KAT TAMBUR – 50 MT – 1700-1800 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "tags": "%100 Polyester, Simenli Mat Kristal Tül, gelinlik, abiyelik, bebe ve çocuk kıyafeti, sert, mat, az esnek, apreli, Oeko Tex class1 uyumlu",
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 18,
+        "productName": "MERVE LÜKS MAT KRİSTAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 13 gr/m2",
+        "colors": "3 ADET",
+        "fabricFeatures": "SERT- MAT- APRELİ- AZ ESNEK",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2400-2600 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "tags": "%100 Polyester, Merve Lüks Mat Kristal Tül, gelinlik, abiyelik, bebe ve çocuk kıyafeti, sert, mat, az esnek, apreli, Oeko Tex class1",
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 19,
+        "productName": "GOLD LÜKS MAT KRİSTAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 20 gr/m2",
+        "colors": "3 ADET",
+        "fabricFeatures": "SERT- MAT- APRELİ- AZ ESNEK",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2800-3200 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "tags": "%100 Polyester, Gold Lüks Mat Kristal Tül, gelinlik, abiyelik, bebe ve çocuk kıyafeti, sert, mat, az esnek, apreli, Oeko Tex class1",
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 20,
+        "productName": "KAHRAMAN LÜKS MAT KRİSTAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 20 gr/m2",
+        "colors": "3 ADET",
+        "fabricFeatures": "SERT- MAT- APRELİ- AZ ESNEK",
+        "packaging": "4 KAT TAMBUR – 50 MT – 3100-3400 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "tags": "%100 Polyester, Kahraman Lüks Mat Kristal Tül, gelinlik, abiyelik, bebe ve çocuk kıyafeti, sert, mat, az esnek, apreli, Oeko Tex class1",
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 21,
+        "productName": "AĞASAR (GREK) TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "200 cm – 15 gr/m2",
+        "colors": "60 ADET",
+        "fabricFeatures": "SERT- MAT- APRELİ- AZ ESNEK",
+        "packaging": "4 KAT TAMBUR – 50 MT – 1400-1600 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM- DEKORASYON- SÜSLEME- ORGANİZASYON",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "tags": "%100 Polyester, Ağasar Grek Tül, abiyelik, bebe ve çocuk kıyafeti, dekorasyon, çiçek süsleme, sert, mat, apreli, Oeko Tex class1",
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 22,
+        "productName": "VUAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 35 gr/m2",
+        "colors": "3 ADET",
+        "fabricFeatures": "SERT- MAT- APRELİ-",
+        "packaging": "2 KAT ROLİK – 100 MT – 9500-10500 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "tags": "%100 Polyester, Vual Tül, gelinlik, abiyelik, bebe ve çocuk kıyafeti, sert, mat, esnemez, apreli, Oeko Tex class1 standard uyumlu",
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 23,
+        "productName": "KARE TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "150 cm / 300 cm – 65 gr/m2",
+        "colors": "3 ADET",
+        "fabricFeatures": "SERT- MAT- APRELİ- BURUŞMAZ",
+        "packaging": "2 KAT ROLİK – 50 MT – 10500-11000 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "tags": "%100 Polyester, Kare Tül, gelinlik, abiyelik, bebe ve çocuk kıyafeti, buruşmaz, sert, mat, esnemez, apreli, Oeko Tex class1 uyumlu",
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 24,
+        "productName": "LÜKS KARE TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "150 cm / 300 cm – 90 gr/m2",
+        "colors": "3 ADET",
+        "fabricFeatures": "SERT- MAT- APRELİ- BURUŞMAZ",
+        "packaging": "2 KAT ROLİK – 50/100 MT – 12500-13500 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "tags": "%100 Polyester, Lüks Kare Tül, gelinlik, abiyelik, bebe ve çocuk kıyafeti, buruşmaz, sert, mat, esnemez, apreli, Oeko Tex class1 uyumlu",
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 25,
+        "productName": "YAĞIZ COM TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "200 cm / 300 cm – 28 gr/m2",
+        "colors": "3 ADET",
+        "fabricFeatures": "SERT- MAT- APRELİ- YIKANIR",
+        "packaging": "2 KAT ROLİK – 100 MT – 5800-6000 gr/8500-9000 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "tags": "%100 Polyester, Yağız com Tül, gelinlik, abiyelik, bebe ve çocuk kıyafeti, yıkanabilir, buruşmaz, sert, mat, apreli, Oeko Tex class1 uyumlu",
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id": 26,
+        "productName": "YARDA TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "200 cm / 300 cm – 35 gr/m2",
+        "colors": "3 ADET",
+        "fabricFeatures": "SERT- MAT- APRELİ-",
+        "packaging": "2 KAT ROLİK/ 2 KAT TAMBUR – 100 METRE, 3300-3600 GR – 4700-5000 GR",
+        "applicationAreas": "GELİNLİK- ABİYELİK",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2500 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "tags": "%100 Polyester, Yarda Tül, gelinlik, abiyelik, bebe ve çocuk kıyafeti, buruşmaz, sert, mat, esnemez, apreli, Oeko Tex class1 uyumlu",
+        "images": [
+          "/assets/img/placeholder1.jpg",
+          "/assets/img/placeholder2.jpg"
+        ]
+      },
+      
+      {
+        "id" : 1,
+        "productName": "NAYLON POWERNET NAKIŞLIK 20 DENYE",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "MELEZ NAKIŞLIK 20 DENYE",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "YASEMİN NAKIŞLIK 20 DENYE",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "ANGEL PETEK NAKIŞLIK 20 DENYE",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "SANAL TÜL BRODELİK 20 DENYE",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "ÇANTALIK FİLE",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "İKAZ YELEKLİK SATEN NEON",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "MESSİNA TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "PES KONFEKSİYONLUK STREÇ EN LİKRA TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "PES ZARİF ELASTAN EN LİKRA TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "PES ELESTAN EN LİKRA",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "NAYLON POWERNET EN LİKRA TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "NAYLON LİKRALI TÜL (EN BOY) YIKAMA FİKSE",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "PES LİKRALI TÜL (EN BOY) YIKAMA FİKSE",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "PES LİKRALI KORSELİK TÜL (EN BOY) YIKAMA FİKSE",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "LÜX MAT KRİSTAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "LÜX MAT KRİSTAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "LÜX MAT KRİSTAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "LÜX MAT KRİSTAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      },
+      {
+        "id" : 1,
+        "productName": "LÜX MAT KRİSTAL TÜL",
+        "content": "%100 POLYESTER",
+        "dimensions": "300 cm – 18 gr/m2",
+        "colors": "138 ADET",
+        "fabricFeatures": "YUMUŞAK- MAT – SİLİKONLU",
+        "packaging": "4 KAT TAMBUR – 50 MT – 2600-2800 gr",
+        "applicationAreas": "GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM",
+        "notes": [
+          "NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.",
+          "KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR."
+        ],
+        "images": [
+          "/assets/img/talha/home/2.jpg",
+          "assets/img/talha/nisa/nisa4.png",
+          "assets/img/talha/nisa/nisa5.png",
+          "assets/img/talha/nisa/nisa6.png",
+          "assets/img/talha/nisa/nisa7.png"
+        ]
+      }
+      
+    ]
+  }

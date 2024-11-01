@@ -52,6 +52,11 @@
       /* Centers the content inside the card body */
     }
   </style>
+  <script>
+    function goToProductDetail(productId) {
+      window.location.href = `productTest.html?id=${productId}`;
+    }
+  </script>
 </head>
 
 <body class="overflow-x-hidden">
@@ -126,7 +131,7 @@
               <!-- End Mega Menu -->
             </li>
             <li class=" nav-item">
-              <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="#" role="button"
+              <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="contact.html" role="button"
                 aria-expanded="false">İletişim</a>
 
               <!-- Mega Menu -->
@@ -292,7 +297,7 @@
         <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible" data-groups="[&quot;product&quot;]"
           style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity; transform: translate(0px, 0px) scale(1);">
           <!-- Card -->
-          <a class="card card-flush card-transition" href="productTest.html">
+          <a class="card card-flush card-transition" href="javascript:void(0);" onclick="goToProductDetail(15)">
 
             <img class="card-img-top nisaKart contain" src="./assets/img/talha/nisa/nisa2.png" alt="Image Description">
             <div class="card-body">
@@ -308,7 +313,7 @@
           data-groups="[&quot;Apresiz Ürünler&quot;]"
           style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(380px, 0px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
           <!-- Card -->
-          <a class="card card-flush card-transition" href="#">
+          <a class="card card-flush card-transition" href="javascript:void(0);" onclick="goToProductDetail(1)">
             <img class="card-img-top" src="./assets/img/talha/1busetul.png" alt="Image Description">
             <div class="card-body">
               <span class="card-subtitle text-body">Apresiz Ürünler</span>

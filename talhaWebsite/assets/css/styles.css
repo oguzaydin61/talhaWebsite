@@ -161,3 +161,23 @@ background: linear-gradient(90deg, rgba(213,214,61,1) 0%, rgba(0,163,210,1) 45%,
 .adress{
   font-size: 10px;
 }
+
+.text-gradient-primary {
+  background-color: #00a3d1;
+  background-image: -webkit-gradient(linear-gradient(to right, #00a3d1, #f6e507)) !important;
+  background-image: linear-gradient(to right, #00a3d1, #f6e507) !important;
+  background-size: 100%;
+  -webkit-box-decoration-break: clone;
+  -webkit-background-clip: text !important;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  box-decoration-break: clone;
+  background-attachment: fixed;
+  background-position: 0 0;
+  background-repeat: repeat;
+}
+
+.text-svg{
+  background-color: linear-gradient(to right, #00a3d1, #f6e507) !important;
+}

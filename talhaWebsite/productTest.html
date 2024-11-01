@@ -151,7 +151,7 @@
               <!-- End Mega Menu -->
             </li>
             <li class=" nav-item">
-              <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="#" role="button"
+              <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="contact.html" role="button"
                 aria-expanded="false">İletişim</a>
 
               <!-- Mega Menu -->
@@ -195,8 +195,8 @@
   <main id="content" role="main">
     <!-- Hero -->
     <div class="container content-space-t-3 content-space-t-lg-4 content-space-b-2">
-      <div class="w-md-75 w-lg-50 text-center mx-auto">
-        <h1 class="display-2">Nisa Kristal Tül</h1>
+      <div class="w-md-75 w-lg-100 text-center mx-auto">
+        <p id="productTitle" class="display-2">Nisa Kristal Tül</p>
         
       </div>
     </div>
@@ -209,30 +209,12 @@
     <!-- Swiper Slider -->
     <div class="mx-3 container mx-auto">
       <div class="js-swiper-gallery swiper">
-        <div class="swiper-wrapper">
-          <div class="swiper-slide">
-            <img class="img-fluid" src="assets/img/talha/nisa/nisa2.png" alt="Image Description">
-          </div>
-          <div class="swiper-slide">
-            <img class="img-fluid" src="assets/img/talha/nisa/nisa4.png" alt="Image Description">
-          </div>
-          <div class="swiper-slide">
-            <img class="img-fluid" src="assets/img/talha/nisa/nisa5.png" alt="Image Description">
-          </div>
-          <div class="swiper-slide">
-            <img class="img-fluid" src="assets/img/talha/nisa/nisa6.png" alt="Image Description">
-          </div>
-          <div class="swiper-slide">
-            <img class="img-fluid" src="assets/img/talha/nisa/nisa7.png" alt="Image Description">
-          </div>
+        <div class="swiper-wrapper" id="galleryWrapper">
+          <!-- Resimler JavaScript ile buraya eklenecek -->
         </div>
-      
+        
         <!-- Preloader -->
-        <div class="js-swiper-gallery-preloader swiper-preloader">
-          <div class="spinner-border text-primary" role="status">
-            <span class="visually-hidden">Loading...</span>
-          </div>
-        </div>
+
         <!-- End Preloader -->
       </div>
       
@@ -246,46 +228,17 @@
     
         <!-- Responsive Table Wrapper -->
         <div class="table-responsive">
-          <table class="table table-striped table-bordered table-hover">
+          <table class="table table-striped table-bordered table-hover" id="productTable">
             <tbody>
-              <tr>
-                <td class="text-wrap">ÜRÜN İSMİ</td>
-                <td>BUSE HAYAL TÜL</td>
-              </tr>
-              <tr>
-                <td class="text-wrap">İÇERİK</td>
-                <td>%100 POLYESTER</td>
-              </tr>
-              <tr>
-                <td class="text-wrap">GENİŞLİK &amp; AĞIRLIK gr/m2</td>
-                <td>300 cm – 18 gr/m2</td>
-              </tr>
-              <tr>
-                <td class="text-wrap">KATALOG RENKLERİ</td>
-                <td>138 ADET</td>
-              </tr>
-              <tr>
-                <td class="text-wrap">KUMAŞ ÖZELLİKLERİ</td>
-                <td>YUMUŞAK- MAT – SİLİKONLU</td>
-              </tr>
-              <tr>
-                <td class="text-wrap">PAKETLEME ŞEKLİ – UZUNLUK – AĞIRLIK</td>
-                <td>4 KAT TAMBUR – 50 MT – 2600-2800 gr</td>
-              </tr>
-              <tr>
-                <td class="text-wrap">KUMAŞ UYGULAMA ALANI</td>
-                <td>GELİNLİK- ABİYELİK- BEBE ÇOCUK GİYİM</td>
-              </tr>
-              <tr>
-                <td colspan="2" class="text-wrap">
-                  NOTE: KATALOG DIŞI RENK SİPARİŞLERİ İÇİN EN AZ SİPARİŞ 2000 METREDİR.
-                </td>
-              </tr>
-              <tr>
-                <td colspan="2" class="text-wrap">
-                  KUMAŞLARIMIZ STANDARD 100 – OEKO-TEX, APPENDIX 4, PRODUCT CLASS 1 SERTİFİKASINA SAHİP OLUP, BEBE VE ÇOCUK KIYAFETLERİNDE KULLANIMA UYGUNDUR. KULLANIM ÖNCESİ TEST YAPILMASI MÜŞTERİ SORUMLULUĞUNDADIR.
-                </td>
-              </tr>
+              <tr><td class="text-wrap">ÜRÜN İSMİ</td><td id="productName"></td></tr>
+              <tr><td class="text-wrap">İÇERİK</td><td id="productContent"></td></tr>
+              <tr><td class="text-wrap">GENİŞLİK &amp; AĞIRLIK gr/m2</td><td id="dimensions"></td></tr>
+              <tr><td class="text-wrap">KATALOG RENKLERİ</td><td id="colors"></td></tr>
+              <tr><td class="text-wrap">KUMAŞ ÖZELLİKLERİ</td><td id="fabricFeatures"></td></tr>
+              <tr><td class="text-wrap">PAKETLEME ŞEKLİ – UZUNLUK – AĞIRLIK</td><td id="packaging"></td></tr>
+              <tr><td class="text-wrap">KUMAŞ UYGULAMA ALANI</td><td id="applicationAreas"></td></tr>
+              <tr><td colspan="2" class="text-wrap" id="note1"></td></tr>
+              <tr><td colspan="2" class="text-wrap" id="note2"></td></tr>
             </tbody>
           </table>
         </div>
@@ -668,7 +621,56 @@
       })
     })()
   </script>
-</body>
+  <script>
+    // URL’den ürün ID’sini almak
+    const urlParams = new URLSearchParams(window.location.search);
+    const productId = urlParams.get('id');
+
+    document.addEventListener('DOMContentLoaded', function() {
+  fetch('../assets/products/products.json')
+    .then(response => response.json())
+    .then(data => {
+      const product = data.products.find(p => p.id == productId);
+      // Burada ürün bilgilerini tabloya yerleştirirsiniz
+      document.getElementById('productName').innerText = product.productName;
+      document.getElementById("productTitle").innerText = product.productName;
+      document.getElementById('productContent').innerText = product.content;
+      document.getElementById('dimensions').innerText = product.dimensions; // Genişlik & Ağırlık
+      document.getElementById('colors').innerText = product.colors; // Katalog Renkleri
+      document.getElementById('fabricFeatures').innerText = product.fabricFeatures; // Kumaş Özellikleri
+      document.getElementById('packaging').innerText = product.packaging; // Paketleme Şekli – Uzunluk – Ağırlık
+      document.getElementById('applicationAreas').innerText = product.applicationAreas; // Kumaş Uygulama Alanı
+      document.getElementById('note1').innerText = product.notes[0]; // Not 1
+      document.getElementById('note2').innerText = product.notes[1]; // Not 2
+
+      const galleryWrapper = document.getElementById('galleryWrapper');
+      product.images.forEach(imageUrl => {
+        const slide = document.createElement('div');
+        slide.classList.add('swiper-slide');
+        slide.innerHTML = `<img class="img-fluid" src="${imageUrl}" alt="${product.productName}">`;
+        galleryWrapper.appendChild(slide);
+      });
+
+      // Swiper galerisini başlatma (Swiper.js kütüphanesi yüklü olmalıdır)
+      new Swiper('.js-swiper-gallery', {
+        preloadImages: true,
+        lazy: false,
+        loop: true,
+        pagination: { el: '.swiper-pagination', clickable: true },
+        navigation: { nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev' },
+      });
+    })
+    .catch(error => console.error('Veri çekme hatası:', error));
+});
+
+  
+
+
+
+        // Diğer tablo verilerini de benzer şekilde doldurabilirsiniz.
+
+  </script>
+
 
 <!-- Mirrored from htmlstream.com/preview/front-v4.3.1/portfolio-case-studies-product.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 13 Oct 2024 09:49:08 GMT -->
 </html>
