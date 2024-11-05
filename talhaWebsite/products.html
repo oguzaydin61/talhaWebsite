@@ -26,6 +26,11 @@
     <script src="//www.youtube.com/player_api"></script>
     <!-- CSS Front Template -->
     <link rel="stylesheet" href="assets/css/theme.minc619.css?v=1.0">
+    <script>
+        function goToProductDetail(productId) {
+            window.location.href = `productTest.html?id=${productId}`;
+        }
+    </script>
 
     <style>
         /* Arka Plan Div'i */
@@ -120,16 +125,16 @@
 
                         <!-- Company -->
                         <li class=" nav-item">
-                            <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="index.html" role="button"
-                                aria-expanded="false">Anasayfa</a>
+                            <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="index.html"
+                                role="button" aria-expanded="false">Anasayfa</a>
 
                             <!-- Mega Menu -->
 
                             <!-- End Mega Menu -->
                         </li>
                         <li class=" nav-item">
-                            <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="products.html" role="button"
-                                aria-expanded="false">Ürünlerimiz</a>
+                            <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="products.html"
+                                role="button" aria-expanded="false">Ürünlerimiz</a>
 
                             <!-- Mega Menu -->
 
@@ -144,8 +149,8 @@
                             <!-- End Mega Menu -->
                         </li>
                         <li class=" nav-item">
-                            <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="certificate.html" role="button"
-                                aria-expanded="false">Sertifikalarımız</a>
+                            <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="certificate.html"
+                                role="button" aria-expanded="false">Sertifikalarımız</a>
 
                             <!-- Mega Menu -->
 
@@ -160,8 +165,8 @@
                             <!-- End Mega Menu -->
                         </li>
                         <li class=" nav-item">
-                            <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="contact.html" role="button"
-                                aria-expanded="false">İletişim</a>
+                            <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link " href="contact.html"
+                                role="button" aria-expanded="false">İletişim</a>
 
                             <!-- Mega Menu -->
 
@@ -224,182 +229,16 @@
         <!-- End Hero -->
 
         <!-- Card Grid -->
-        <div class="container content-space-b-2 content-space-b-lg-3">
+        <div class="container  mt-10 textSlider">
+
+        </div>
+        <div id="" class="container content-space-b-2 content-space-b-lg-3">
             <!-- Nav Scroller -->
-            <div class="js-nav-scroller hs-nav-scroller-horizontal mb-7">
-                <span class="hs-nav-scroller-arrow-prev" style="display: none;">
-                    <a class="hs-nav-scroller-arrow-link" href="javascript:;">
-                        <i class="bi-chevron-left"></i>
-                    </a>
-                </span>
 
-                <span class="hs-nav-scroller-arrow-next" style="display: none;">
-                    <a class="hs-nav-scroller-arrow-link" href="javascript:;">
-                        <i class="bi-chevron-right"></i>
-                    </a>
-                </span>
-
-                <!-- Nav -->
-                <ul class="js-filter-options nav nav-segment nav-pills d-flex mx-auto" style="max-width: 35rem; justify-content: center;">
-                    <li class="nav-item">
-                        <a class="nav-link active" href="javascript:;" data-group="all">All</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript:;" data-group="branding">Apreli Ürünler</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript:;" data-group="product">Apresiz Ürünler</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript:;" data-group="design">Kartela</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript:;" data-group="illustration">Sineklik</a>
-                    </li>
-                </ul>
-                <!-- End Nav -->
-            </div>
             <!-- End Nav Scroller -->
 
-            <div class="js-shuffle row row-cols-1 row-cols-sm-2 row-cols-md-3 shuffle"
-                style="position: relative; overflow: hidden; height: 1763.06px; transition: height 500ms cubic-bezier(0.4, 0, 0.2, 1);">
-                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
-                    data-groups="[&quot;product&quot;]"
-                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity; transform: translate(0px, 0px) scale(1);">
-                    <!-- Card -->
-                    <a class="card card-flush card-transition" href="productTest.html">
+            <div class="js-shuffle  row row-cols-1 row-cols-sm-2 row-cols-md-3 shuffle"></div>
 
-                        <img class="card-img-top nisaKart contain" src="./assets/img/talha/nisa/nisa2.png"
-                            alt="Image Description">
-                        <div class="card-body">
-                            <span class="card-subtitle text-body">Apreli Ürünler</span>
-                            <h3 class="card-title">Nisa Kristal Tül</h3>
-                        </div>
-                    </a>
-                    <!-- End Card -->
-                </div>
-                <!-- End Col -->
-
-                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
-                    data-groups="[&quot;Apresiz Ürünler&quot;]"
-                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(380px, 0px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
-                    <!-- Card -->
-                    <a class="card card-flush card-transition" href="#">
-                        <img class="card-img-top" src="./assets/img/talha/1busetul.png" alt="Image Description">
-                        <div class="card-body">
-                            <span class="card-subtitle text-body">Apresiz Ürünler</span>
-                            <h3 class="card-title">Buse Hayal Tül</h3>
-                        </div>
-                    </a>
-                    <!-- End Card -->
-                </div>
-                <!-- End Col -->
-
-                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
-                    data-groups="[&quot;branding&quot;]"
-                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(760px, 0px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
-                    <!-- Card -->
-                    <a class="card card-flush card-transition" href="#">
-                        <img class="card-img-top" src="./assets/img/400x500/img21.jpg" alt="Image Description">
-                        <div class="card-body">
-                            <span class="card-subtitle text-body">Branding</span>
-                            <h3 class="card-title">Larq</h3>
-                        </div>
-                    </a>
-                    <!-- End Card -->
-                </div>
-                <!-- End Col -->
-
-                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
-                    data-groups="[&quot;product&quot;]"
-                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(0px, 588px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
-                    <!-- Card -->
-                    <a class="card card-flush card-transition" href="#">
-                        <img class="card-img-top" src="./assets/img/400x500/img24.jpg" alt="Image Description">
-                        <div class="card-body">
-                            <span class="card-subtitle text-body">Product</span>
-                            <h3 class="card-title">Zibbet</h3>
-                        </div>
-                    </a>
-                    <!-- End Card -->
-                </div>
-                <!-- End Col -->
-
-                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
-                    data-groups="[&quot;illustration&quot;]"
-                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(380px, 588px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
-                    <!-- Card -->
-                    <a class="card card-flush card-transition" href="#">
-                        <img class="card-img-top" src="./assets/img/400x500/img19.jpg" alt="Image Description">
-                        <div class="card-body">
-                            <span class="card-subtitle text-body">Illustration</span>
-                            <h3 class="card-title">Adobe Ai</h3>
-                        </div>
-                    </a>
-                    <!-- End Card -->
-                </div>
-                <!-- End Col -->
-
-                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
-                    data-groups="[&quot;branding&quot;]"
-                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(760px, 588px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
-                    <!-- Card -->
-                    <a class="card card-flush card-transition" href="#">
-                        <img class="card-img-top" src="./assets/img/400x500/img20.jpg" alt="Image Description">
-                        <div class="card-body">
-                            <span class="card-subtitle text-body">Branding</span>
-                            <h3 class="card-title">Goby</h3>
-                        </div>
-                    </a>
-                    <!-- End Card -->
-                </div>
-                <!-- End Col -->
-
-                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
-                    data-groups="[&quot;branding&quot;]"
-                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(0px, 1175px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
-                    <!-- Card -->
-                    <a class="card card-flush card-transition" href="#">
-                        <img class="card-img-top" src="./assets/img/400x500/img22.jpg" alt="Image Description">
-                        <div class="card-body">
-                            <span class="card-subtitle text-body">Branding</span>
-                            <h3 class="card-title">OK</h3>
-                        </div>
-                    </a>
-                    <!-- End Card -->
-                </div>
-                <!-- End Col -->
-
-                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
-                    data-groups="[&quot;design&quot;]"
-                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(380px, 1175px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
-                    <!-- Card -->
-                    <a class="card card-flush card-transition" href="#">
-                        <img class="card-img-top" src="./assets/img/400x500/img23.jpg" alt="Image Description">
-                        <div class="card-body">
-                            <span class="card-subtitle text-body">Design</span>
-                            <h3 class="card-title">Flaunter</h3>
-                        </div>
-                    </a>
-                    <!-- End Card -->
-                </div>
-                <!-- End Col -->
-
-                <div class="js-shuffle-item col mb-5 shuffle-item shuffle-item--visible"
-                    data-groups="[&quot;design&quot;]"
-                    style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(760px, 1175px) scale(1); transition-duration: 500ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
-                    <!-- Card -->
-                    <a class="card card-flush card-transition" href="#">
-                        <img class="card-img-top" src="./assets/img/400x500/img10.jpg" alt="Image Description">
-                        <div class="card-body">
-                            <span class="card-subtitle text-body">Design</span>
-                            <h3 class="card-title">Inside weather</h3>
-                        </div>
-                    </a>
-                    <!-- End Card -->
-                </div>
-                <!-- End Col -->
-            </div>
             <!-- End Row -->
         </div>
         <!-- End Card Grid -->
@@ -535,8 +374,33 @@
                 }
             }
 
-            new ShufflePorfolio(document.querySelector('.js-shuffle'))
+            new ShufflePorfolio(document.querySelector('.textSlider'))
         })()
+    </script>
+    <script>
+            (function () {
+                // INITIALIZATION OF HEADER
+                // =======================================================
+
+
+
+                // INITIALIZATION OF GO TO
+                // =======================================================
+                new HSGoTo('.js-go-to')
+
+
+                // INITIALIZATION OF SWIPER
+                // =======================================================
+                var swiper = new Swiper('.js-swiper-blog-metro-hero', {
+                    effect: 'fade',
+                    autoplay: true,
+                    loop: true,
+                    pagination: {
+                        el: '.js-swiper-blog-metro-hero-pagination',
+                        clickable: true,
+                    }
+                });
+            })()
     </script>
     <!-- JS Plugins Init. -->
     <script>
@@ -567,6 +431,51 @@
                     once: true
                 });
             })()
+    </script>
+    <script>
+        async function fetchAndRenderProductCards() {
+            try {
+                // Fetch JSON from the external path
+                const response = await fetch('assets/products/products.json');
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+
+                // Parse the JSON data
+                const productData = await response.json();
+
+                // Select the container element
+                const container = document.querySelector('.js-shuffle');
+
+                // Iterate over products and create cards
+                productData.products.forEach(product => {
+                    const productCard = document.createElement('div');
+                    productCard.className = 'js-shuffle-item col mb-5 shuffle-item shuffle-item--visible';
+                    productCard.setAttribute('data-groups', '["product"]');
+
+                    productCard.innerHTML = `
+                <a class="card card-flush card-transition" href="javascript:void(0);" onclick="goToProductDetail(${product.id})">
+                  <img class="card-img-top" src="${product.images[0]}" alt="${product.productName}" 
+                        style="object-fit: contain; width: 100%; padding:40px; height: auto;" 
+                        onerror="this.onerror=null;this.src='assets/img/talha/talhalogo.png';">
+
+                  <div class="card-body">
+                    <span class="card-subtitle text-body">${product.content}</span>
+                    <h3 class="card-title">${product.productName}</h3>
+                    <p class="card-text">${product.dimensions}</p>
+                  </div>
+                </a>
+              `;
+
+                    container.appendChild(productCard);
+                });
+            } catch (error) {
+                console.error('Error fetching product data:', error);
+            }
+        }
+
+        // Call the function on page load
+        document.addEventListener('DOMContentLoaded', fetchAndRenderProductCards);
     </script>
 </body>
 

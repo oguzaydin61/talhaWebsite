@@ -31,6 +31,11 @@
     word-break: break-word !important;
     overflow-wrap: break-word !important;
   }
+
+
+  #productTitle{
+    font-size:3.4rem;
+  }
   .ürün-btn{
     flex: content;
 
