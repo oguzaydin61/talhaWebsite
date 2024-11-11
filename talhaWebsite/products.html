@@ -454,9 +454,9 @@
                     productCard.setAttribute('data-groups', '["product"]');
 
                     productCard.innerHTML = `
-                <a class="card card-flush card-transition" href="javascript:void(0);" onclick="goToProductDetail(${product.id})">
+                <a class="card shadow card-flush card-transition" href="javascript:void(0);" onclick="goToProductDetail(${product.id})">
                   <img class="card-img-top" src="${product.images[0]}" alt="${product.productName}" 
-                        style="object-fit: contain; width: 100%; padding:40px; height: auto;" 
+                        style="object-fit: contain; width: 100%; padding:10px; height: auto;" 
                         onerror="this.onerror=null;this.src='assets/img/talha/talhalogo.png';">
 
                   <div class="card-body">
